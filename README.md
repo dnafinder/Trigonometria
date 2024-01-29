@@ -33,6 +33,7 @@ Syntax: 	trigon(alpha,deg)
 
           Created by Giuseppe Cardillo
           giuseppe.cardillo.75@gmail.com
+![Selezione_011](https://github.com/dnafinder/Trigonometria/assets/37176275/c72b52e8-4440-43d4-b6ec-6760d85d1cf0)
 
 To cite this file, this would be an appropriate format:
 Cardillo G. (2024) Trigonometria
